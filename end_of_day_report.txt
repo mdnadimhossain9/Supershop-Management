@@ -1,0 +1,58 @@
+End-of-Day Report :
+Total sales amount : 3876.00
+Number of transactions : 7
+
+Bill Details :
+Bill ID : 1
+Date : 28-06-2024
+Customer Name : Irfan
+Contact Number : 0123456789
+Product ID : 13, Name : Egg, Quantity : 12, Price : 12.00
+Product ID : 20, Name : Rice, Quantity : 1, Price : 700.00
+Total Amount : 801.80
+
+Bill ID : 2
+Date : 28-06-2024
+Customer Name : Rafew
+Contact Number : 0987654321
+Product ID : 14, Name : Beef, Quantity : 1, Price : 900.00
+Product ID : 12, Name : Daal, Quantity : 1, Price : 30.00
+Product ID : 20, Name : Rice, Quantity : 2, Price : 700.00
+Total Amount : 2213.50
+
+Bill ID : 3
+Date : 28-06-2024
+Customer Name : Yasir
+Contact Number : 123
+Product ID : 13, Name : Egg, Quantity : 12, Price : 12.00
+Total Amount : 136.80
+
+Bill ID : 4
+Date : 28-06-2024
+Customer Name : Yamin
+Contact Number : 45678
+Product ID : 21, Name : Sugar, Quantity : 1, Price : 80.00
+Product ID : 3, Name : Bananas, Quantity : 4, Price : 8.00
+Product ID : 4, Name : Bread, Quantity : 1, Price : 45.00
+Total Amount : 149.15
+
+Bill ID : 5
+Date : 28-06-2024
+Customer Name : Arnob
+Contact Number : 09876
+Product ID : 17, Name : Milk, Quantity : 1, Price : 45.00
+Total Amount : 42.75
+
+Bill ID : 6
+Date : 28-06-2024
+Customer Name : Irfan
+Contact Number : 0123456789
+Product ID : 1, Name : Apple, Quantity : 2, Price : 40.00
+Total Amount : 76.00
+
+Bill ID : 7
+Date : 29-06-2024
+Customer Name : Irfan
+Contact Number : 0123456789
+Product ID : 1, Name : Apple, Quantity : 12, Price : 40.00
+Total Amount : 456.00
