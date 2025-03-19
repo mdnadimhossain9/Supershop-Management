@@ -1,4 +1,4 @@
-// Irfanul Karim, [8/19/2024 11:46 PM]
+//MD NADIM HOSSAIN
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
