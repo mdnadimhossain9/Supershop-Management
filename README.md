@@ -1,2 +1,2 @@
 # SuperShop-Management
-It is a group project with https://github.com/ANRafew and https://github.com/mdnadimhossain9
+It is a group project with https://github.com/ANRafew and https://github.com/Irfan-IIUC-197?tab=repositories
